@@ -1,1 +1,50 @@
 /*  your css code here. If applicable */
+.head{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+td{
+	border: 1px solid black;
+	padding: 1px;
+}
+#t12{
+	justify-content: center;
+}
+#t13{
+	justify-content: right;
+}
+
+.center{
+
+}
+#table-1{
+    width: 600px;
+    height:100px
+}
+#table-2{
+	border: 1px solid black;
+    width: 600px;
+    height:100px;
+}
+#table-3{
+    width: 600px;
+    height:100px;
+}
+#t-image{
+	 border: 1px solid black;
+}
+.middle{
+	 border: 1px solid black;
+}
+.green{
+	 border: 1px solid black;
+    background-color: green;
+    height: 15px;
+}
+
+.blue{
+	 border: 1px solid black;
+    background-color: blue;
+    height: 15px;
+}
